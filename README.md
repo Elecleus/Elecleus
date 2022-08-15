@@ -1,4 +1,4 @@
-### 👋 Hi, I’m elecleus.
+### 👋 Hi, I’m Elecleus.
 This name is shortened from "electron nucleus".
 ### 👀 I’m interested in Rust and Linux especially NixOS which is currently in use.
 ### 🌱 I’m a high school student.
