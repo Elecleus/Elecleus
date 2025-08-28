@@ -1,5 +1,12 @@
-### 👋 Hi, I’m Elecleus.
-This name is shortened from "electron nucleus".
-### 👀 I’m interested in Rust and Linux especially NixOS which is currently in use.
-### 🌱 I’m a undergraduate.
-### 📫 This is my email: elecleus@outlook.com
+**👋 Hi, I’m Elecleus**.\
+(This name is shortened from "Electron Nucleus")
+
+👀 I’m interested in **Rust, Scheme, Haskell, and functional programming**.
+
+💻 My primary OS is **GNU/Linux**, specifically **Guix System** (which I currently use).
+
+👨‍🎓 I’m an undergraduate **Computer Science** student at **DLUT**.
+
+📫 Reach me at elecleus@outlook.com.
+
+🏔 See more of my open-source projects on Codeberg [here](https://codeberg.org/Elecleus).
