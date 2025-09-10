@@ -3,7 +3,7 @@
 
 👀 I’m interested in **Rust, Scheme, Haskell, and functional programming**.
 
-💻 My primary OS is **GNU/Linux**, specifically **Guix System** (which I currently use).
+💻 My primary OS is **GNU/Linux**, specifically **NixOS** (which I currently use).
 
 👨‍🎓 I’m an undergraduate **Computer Science** student at **DLUT**.
 
